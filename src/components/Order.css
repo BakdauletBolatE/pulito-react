@@ -1,0 +1,15 @@
+.container{
+    max-width: 1200px;
+    padding: 0px 20px;
+}
+.grid{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.grid__item{
+
+}
+.grid__item.active{
+    border-bottom: 1px solid greenyellow;
+}
